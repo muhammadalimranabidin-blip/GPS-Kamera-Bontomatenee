@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Kamera Bontomatene</string>
+    <string-array name="desa_array">
+        <item>Tanete</item>
+        <item>Pamatata</item>
+        <item>Bungaiya</item>
+        <item>Menara Indah</item>
+        <item>Kayu Bauk</item>
+    </string-array>
+</resources>
